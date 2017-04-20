@@ -6,6 +6,6 @@ public class test {
 		int a = 1;
 		int b;
 		int d=1;
-		int e;
+		int e=2;
 	}
 }
